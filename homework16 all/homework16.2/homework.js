@@ -16,6 +16,7 @@
 
 // symmetry();
 // ---------------------2----------------------
+// ????
 // function number(){
 
 // }
@@ -34,7 +35,7 @@
 
 
 //     const word='Happy Birthday'
-//     const change=word.substr(0).toLowerCase+word.slice(1)
+//     const change=word.substr(0).toLowerCase+word.slice(1)       ???
 //     console.log(change);
 // }
 // change()
