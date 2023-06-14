@@ -32,11 +32,9 @@
 
 // --------------------------4-----------------------
 // function change(){
+// ???
 
-
-//     const word='Happy Birthday'
-//     const change=word.substr(0).toLowerCase+word.slice(1)       ???
-//     console.log(change);
+//    
 // }
 // change()
 
